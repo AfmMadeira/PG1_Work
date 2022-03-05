@@ -23,7 +23,7 @@
 #include <stdbool.h>
 
 
-// INICIO DO CODIGO MAIN
+
 int main(){ 
 	
 	while(1){
